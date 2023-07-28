@@ -1,0 +1,13 @@
+name: cadet
+
+dependencies:
+  - python=3.9
+  - matplotlib
+  - numpy
+  - ipykernel
+  - cadet
+  - pip:
+    - CADET-Process==0.7.3
+    - jupyter
+
+
